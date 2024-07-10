@@ -31,9 +31,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
-me-img: "/img/jetpacktocat.png"
+  - text: "Modernized Longshore Dispatch."
+me-img: "/img/main-logo.png"
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
 
