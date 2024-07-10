@@ -1,7 +1,7 @@
 # Site settings
 
 # NB! Set your site's url, otherwise nothing will work
-url: "https://www.longshorelogic.com"
+url: "http://www.longshorelogic.com"
 
 # Google tracking id
 google-tracking-id: "UA-XXXXXXXX-X"
